@@ -14,3 +14,4 @@ doskey cat=type $1
 doskey ..=cd ..
 doskey ...=cd C:\
 doskey alias=doskey /macros:all
+alias c=cd C:\src
