@@ -1,0 +1,4 @@
+[autorun]
+OPEN=setupSNK.exe
+ICON=\SMRTNTKY\fcw.ico
+ACTION=Wireless Network Setup Wizard

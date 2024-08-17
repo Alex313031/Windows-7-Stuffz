@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<wirelessProfile xmlns="http://www.microsoft.com/provisioning/WirelessProfile/2004">
+	<config>
+		<configId>FCB503C7-FAE8-4E02-B7AA-DC59215587DC</configId>
+		<configAuthorId>0B4E59B8-8317-46B2-B8C2-C46850162E6C</configAuthorId>
+		<configAuthor>Microsoft Wireless Network Setup Wizard</configAuthor>
+	</config>
+	<ssid xml:space="preserve">Frick WIFI Guest</ssid>
+	<connectionType>ESS</connectionType>
+	<channel2Dot4>0</channel2Dot4>
+	<channel5Dot0>0</channel5Dot0>
+	<primaryProfile>
+		<authentication>open</authentication>
+		<encryption>none</encryption>
+		<networkKey xml:space="preserve"></networkKey>
+		<keyProvidedAutomatically>0</keyProvidedAutomatically>
+		<ieee802Dot1xEnabled>0</ieee802Dot1xEnabled>
+	</primaryProfile>
+</wirelessProfile>
