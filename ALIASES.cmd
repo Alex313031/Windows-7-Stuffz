@@ -1,6 +1,6 @@
 @echo off
 
-doskey la=dir /a:hd
+doskey la=dir /A
 doskey ni=npm install
 doskey ns=npm run start
 doskey clean=npm run clean
