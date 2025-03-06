@@ -34,6 +34,7 @@ Files for Windows 7 that are hard to find.
 - https://www.techinferno.com/index.php?/topic/12141-intel-core-i7-8th-gen-with-windows-7-intel-uhd-graphics-620-driver-dell-inspiron-5770/
 
 # [GET free crack activation keys](keys.txt)
+Not Working? [Try without a key.](alt-crack.txt)
 
 # Source Tree
 ```
