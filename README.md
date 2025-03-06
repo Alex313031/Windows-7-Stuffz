@@ -33,6 +33,9 @@ Files for Windows 7 that are hard to find.
 - https://www.realtek.com/Download/List?cate_id=593
 - https://www.techinferno.com/index.php?/topic/12141-intel-core-i7-8th-gen-with-windows-7-intel-uhd-graphics-620-driver-dell-inspiron-5770/
 
+To keep getting windows 7 security patches use [legacyupdate.net](https://legacyupdate.net/)
+Read about it [here](legacyupdate.net.txt)
+
 # [GET free crack activation keys](keys.txt)
 Not Working? [Try without a key.](alt-crack.txt)
 
