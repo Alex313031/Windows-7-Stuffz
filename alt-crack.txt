@@ -1,0 +1,9 @@
+How to Activate Windows 7 Without Product Key
+You can also activate Windows 7 without a product key. Here are the ways.
+
+Visit the start menu and search CMD.
+Right-click on the option and run it as administrator.
+After the Command Prompt window opens, enter the command “slmgr -rearm”.
+The PC will ask you to restart the PC. Do it immediately.
+After the PC restarts, run CMD as administrator again. This time, you should enter the command “slmgr -ato”.
+If the message “successful activation of Windows 7” appears, it means you have activated Windows 7 successfully.
