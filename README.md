@@ -17,7 +17,6 @@ Files for Windows 7 that are hard to find.
 # Table of Contents
 
 1. [Windows 7 Stuffz-4-Hackers](#windows-7-stuffz-4-hackers)  
-   - [Available Files](#available-files)  
    - [Windows 7 ISO](#windows-7-iso)  
 
 2. [Other Drivers](#other-drivers)  
