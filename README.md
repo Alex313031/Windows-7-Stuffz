@@ -10,4 +10,6 @@ https://www.realtek.com/Download/List?cate_id=593
 
 https://www.techinferno.com/index.php?/topic/12141-intel-core-i7-8th-gen-with-windows-7-intel-uhd-graphics-620-driver-dell-inspiron-5770/
 
+[GET free crack activation keys](keys.txt)
+
 This is a fork so I do not know what is in this repo.
