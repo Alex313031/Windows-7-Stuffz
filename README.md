@@ -4,13 +4,28 @@
 
 Files for Windows 7 that are hard to find.
 
-Here you can find:
+
+# Here you can find:
 - Drivers
 - Keys
 - Firmware
 - sandisk software
 - intel cpu drivers
 - and more
+
+
+# Table of Contents
+
+1. [Windows 7 Stuffz-4-Hackers](#windows-7-stuffz-4-hackers)  
+   - [Available Files](#available-files)  
+   - [Windows 7 ISO](#windows-7-iso)  
+
+2. [Other Drivers](#other-drivers)  
+
+3. [GET Free Crack Activation Keys](#get-free-crack-activation-keys)  
+
+4. [Source Tree](#source-tree)
+
 
 [Windows 7 iso](https://archive.org/details/7601.24214.180801-1700.win-7sp-1-ldr-escrow-client-ultimate-x-64-fre-en-us_202304)
 
