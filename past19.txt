@@ -1,0 +1,17 @@
+IMPORTANT: To get updates past 2019, one
+should manually install these two updates, in order:
+
+1. KB4490628 Servicing Stack Update  muc.png
+2. KB4474419 SHA-2 Code Signing Update  muc.png
+WinHlp32 update for Windows 7:
+
+1. KB917607 WinHlp32 Update (x86)  muc.png
+2. KB917607 WinHlp32 Update (x64)  muc.png
+Wufuc, which enables updates on "unsupported systems".
+See the README.
+
+ wufuc_v1.0.1.201-a52637d4.zip  Win7 Favicon
+Gigabyte driver injector tool for adding USB3/NVME/Thunderbolt drivers to a Win7 .iso.
+I have also updated the AMD USB drivers to the latest revisions.
+
+ mb_utility_windowsimagetool_B18.0213.1.zip  GIGABYTE Logo

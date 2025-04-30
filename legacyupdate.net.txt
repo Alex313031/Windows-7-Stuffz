@@ -1,0 +1,24 @@
+This is a community-run resource to help you fix access to the internet and the Windows Update service on earlier versions of Windows. Since Windows XP was discontinued in 2014, followed by Windows 7 in 2020, Microsoft has closed services they depend on, such as Windows Update. There are also design flaws with these earlier versions of Windows Update, which make them difficult to get working on new installations.
+
+Legacy Update can install all relevant updates necessary to fix access to the Windows Update service on unsupported versions of Windows. These versions of Windows may display the error “Windows could not search for new updates: Windows Update encountered an unknown error” with error code 80072EFE, or may simply never finish checking for updates. Legacy Update identifies the updates your system lacks, and installs them automatically, restoring the Windows Update service to full functionality.
+
+Windows Update provides many optional and recommended updates, in addition to drivers for your system, but Windows XP and 2000 can only install critical security updates through the built-in Automatic Updates feature. Legacy Update revives the original Windows Update website - the only way to see and install every update available for your system. Legacy Update also restores access to Windows Ultimate Extras on Windows Vista Ultimate.
+
+Legacy Update also restores connectivity to some websites in Internet Explorer, and other programs that use the Windows built-in networking functionality. This includes Windows Product Activation on Windows XP and Windows Server 2003, allowing you to activate these versions of Windows online in seconds (a legitimate product key is still required).
+
+Just want to appreciate the nostalgia of the classic Windows Update website? Legacy Update can also be installed on Windows 10 and 11. This works even on versions of these OSes that have removed Internet Explorer. Legacy Update won’t modify your Windows 10 or 11 installation.
+
+Install Legacy Update
+
+Windows XP users: You may need to follow the workaround here to run Legacy Update.
+Compatible with Windows 2000, XP, Vista, 7, 8, 8.1, 10, and 11 (including equivalent Windows Server releases)
+All Windows editions (Professional, Home, Media Center Edition, etc.)
+32-bit, 64-bit, and Itanium processors
+Compatibility · Release history
+Legacy Update can be launched from the Start menu, Control Panel, or Install Updates in the site sidebar. You can uninstall Legacy Update from Add and Remove Programs.
+
+If you encounter errors while trying to install updates, our Windows Update Error Codes list might be useful.
+
+Running Windows 95, 98, Me, or NT 4.0? Try our sister project Windows Update Restored instead.
+
+///From the official website///
