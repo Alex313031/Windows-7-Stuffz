@@ -15,3 +15,5 @@ doskey ..=cd ..
 doskey ...=cd C:\
 doskey alias=doskey /macros:all
 doskey c=cd C:\src
+
+"C:\Program Files (x86)\clink\clink.bat" inject --autorun --profile ~\clink
